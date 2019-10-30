@@ -1,3 +1,6 @@
+'''
+Converting txt to PCFG, then output to a txt file
+'''
 from nltk import Tree
 from nltk.corpus import treebank
 from nltk import Nonterminal
