@@ -1,0 +1,12 @@
+block
+blue
+circle
+cone
+cube
+green
+on
+put
+red
+square
+take
+the

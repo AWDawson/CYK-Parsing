@@ -1,0 +1,11 @@
+take the block on the green circle			
+put the block on the circle on the red circle		
+put the green cone on the square			
+take the red cone					
+put the green block on the square			
+take the blue cone on the red circle			
+take the cube on the red circle				
+put the blue cone on the red circle on the green circle	
+put the block on the green circle			
+put the blue block on the circle			
+
