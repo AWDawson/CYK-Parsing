@@ -3,13 +3,6 @@ from nltk.corpus import treebank
 from nltk import Nonterminal
 from nltk import induce_pcfg
 
-
-'''
-s = '[S [Verb  put] [NP [Det the] [Noun  cone] [PP [Prep on] [NP [Det the] [Adj red] [Noun  square]]]] [PP [Prep on] [NP [Det the] [Noun  square]]]]'  
-
-t = Tree.fromstring(s)
-print(t)
-'''
 productions = []
 
 filepath = 'TrainingTree.txt'
