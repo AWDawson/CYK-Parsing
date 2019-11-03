@@ -1,0 +1,1 @@
+python CYK_parser.py TestInputFile grammar.txt TextOutputFile
